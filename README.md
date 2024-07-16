@@ -1,5 +1,5 @@
 # Segunda-Parcial
 
 Integrantes:
-Jonathan Juarez 
-Maria Zavaleta
+1- Jonathan Juarez 
+2- Maria Zavaleta
